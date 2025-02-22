@@ -1,7 +1,6 @@
 package ui;
 
 import dto.BoardColumnInfoDTO;
-import service.CardReportService;
 import persistence.entity.BoardColumnEntity;
 import persistence.entity.BoardEntity;
 import persistence.entity.CardEntity;
