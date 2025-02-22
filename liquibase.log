@@ -1,52 +1,54 @@
-fev. 22, 2025 6:59:38 PM liquibase.changelog
+fev. 22, 2025 7:19:26 PM liquibase.changelog
 INFO: Reading resource: db/changelog/migrations/db.changelog-202502221730.sql
-fev. 22, 2025 6:59:38 PM liquibase.changelog
+fev. 22, 2025 7:19:26 PM liquibase.changelog
 INFO: Reading resource: db/changelog/migrations/db.changelog-202502221814.sql
-fev. 22, 2025 6:59:38 PM liquibase.changelog
+fev. 22, 2025 7:19:26 PM liquibase.changelog
 INFO: Reading resource: db/changelog/migrations/db.changelog-202502221825.sql
-fev. 22, 2025 6:59:38 PM liquibase.changelog
+fev. 22, 2025 7:19:26 PM liquibase.changelog
 INFO: Reading resource: db/changelog/migrations/db.changelog-202502221828.sql
-fev. 22, 2025 6:59:38 PM liquibase.changelog
+fev. 22, 2025 7:19:26 PM liquibase.changelog
 INFO: Reading resource: db/changelog/migrations/db.changelog-202502221851.sql
-fev. 22, 2025 6:59:38 PM liquibase.changelog
+fev. 22, 2025 7:19:26 PM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202502221912.sql
+fev. 22, 2025 7:19:26 PM liquibase.changelog
 INFO: Reading from board.databasechangelog
-fev. 22, 2025 6:59:38 PM liquibase.lockservice
+fev. 22, 2025 7:19:26 PM liquibase.lockservice
 INFO: Successfully acquired change log lock
-fev. 22, 2025 6:59:38 PM liquibase.command
-INFO: Using deploymentId: 0261578694
-fev. 22, 2025 6:59:38 PM liquibase.changelog
+fev. 22, 2025 7:19:26 PM liquibase.command
+INFO: Using deploymentId: 0262766712
+fev. 22, 2025 7:19:26 PM liquibase.changelog
 INFO: Reading from board.databasechangelog
-Running Changeset: db/changelog/migrations/db.changelog-202502221851.sql::202502221851::arthur
-fev. 22, 2025 6:59:38 PM liquibase.changelog
+Running Changeset: db/changelog/migrations/db.changelog-202502221912.sql::202502221912::arthur
+fev. 22, 2025 7:19:26 PM liquibase.changelog
 INFO: Custom SQL executed
-fev. 22, 2025 6:59:38 PM liquibase.changelog
-INFO: ChangeSet db/changelog/migrations/db.changelog-202502221851.sql::202502221851::arthur ran successfully in 143ms
+fev. 22, 2025 7:19:26 PM liquibase.changelog
+INFO: ChangeSet db/changelog/migrations/db.changelog-202502221912.sql::202502221912::arthur ran successfully in 115ms
 
 UPDATE SUMMARY
 Run:                          1
-Previously run:               4
+Previously run:               5
 Filtered out:                 0
 -------------------------------
-Total change sets:            5
+Total change sets:            6
 
-fev. 22, 2025 6:59:38 PM liquibase.util
+fev. 22, 2025 7:19:26 PM liquibase.util
 INFO: UPDATE SUMMARY
-fev. 22, 2025 6:59:38 PM liquibase.util
+fev. 22, 2025 7:19:26 PM liquibase.util
 INFO: Run:                          1
-fev. 22, 2025 6:59:38 PM liquibase.util
-INFO: Previously run:               4
-fev. 22, 2025 6:59:38 PM liquibase.util
+fev. 22, 2025 7:19:26 PM liquibase.util
+INFO: Previously run:               5
+fev. 22, 2025 7:19:26 PM liquibase.util
 INFO: Filtered out:                 0
-fev. 22, 2025 6:59:38 PM liquibase.util
+fev. 22, 2025 7:19:26 PM liquibase.util
 INFO: -------------------------------
-fev. 22, 2025 6:59:38 PM liquibase.util
-INFO: Total change sets:            5
-fev. 22, 2025 6:59:38 PM liquibase.util
+fev. 22, 2025 7:19:26 PM liquibase.util
+INFO: Total change sets:            6
+fev. 22, 2025 7:19:26 PM liquibase.util
 INFO: Update summary generated
-fev. 22, 2025 6:59:38 PM liquibase.command
+fev. 22, 2025 7:19:26 PM liquibase.command
 INFO: Update command completed successfully.
 Liquibase: Update has been successful. Rows affected: 1
-fev. 22, 2025 6:59:38 PM liquibase.lockservice
+fev. 22, 2025 7:19:26 PM liquibase.lockservice
 INFO: Successfully released change log lock
-fev. 22, 2025 6:59:38 PM liquibase.command
+fev. 22, 2025 7:19:26 PM liquibase.command
 INFO: Command execution complete
